@@ -7,4 +7,4 @@ I'm a senior engineer at TMA
 
 the sun is yellow
 
-
+I work from monday to friday
